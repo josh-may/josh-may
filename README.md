@@ -44,7 +44,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Josh Mays's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=josh-may&show_icons=true&hide_border=true" />
+  <img align="left" alt="Josh Mays's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=josh-may&show_icons=true&hide_border=true" />
 
 [website]: https://joshmay.xyz
 [twitter]: https://twitter.com/joshuammay
