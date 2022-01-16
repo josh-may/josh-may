@@ -29,7 +29,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Favorite Finds of 2021](https://joshmay.xyz/2021-favorites-finds/)
 - [Test](https://joshmay.xyz/test/)
 - [Junk Food Technology](https://joshmay.xyz/junk-food-tech/)
