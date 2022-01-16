@@ -1,8 +1,8 @@
 ### Hi there, I'm Josh May 👋
 
-- 🌱 I’m currently learning React & building micro SaaS apps
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love camping, hiking, and traveling
+- 🌱 I’m currently mastering React & building micro SaaS apps
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love camping, hiking, and riding my bike :)
 
 <br />
 
