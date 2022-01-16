@@ -1,8 +1,8 @@
-### Hi there, I'm Josh May 👋
+### Hi there, I'm Josh 👋
 
 - 🌱 I’m currently mastering React & building micro SaaS apps
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love camping, hiking, and riding my bike :)
+- ⚡ Fun fact: I love camping, hiking, and riding my biking around :)
 
 <br />
 
@@ -29,6 +29,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Favorite Finds of 2021](https://joshmay.xyz/2021-favorites-finds/)
 - [Test](https://joshmay.xyz/test/)
 - [Junk Food Technology](https://joshmay.xyz/junk-food-tech/)
@@ -39,6 +40,11 @@
 ➡️ [more blog posts...](https://joshmay.xyz)
 
 ---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Josh Mays's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=josh-may&show_icons=true&hide_border=true" />
 
 [website]: https://joshmay.xyz
 [twitter]: https://twitter.com/joshuammay
