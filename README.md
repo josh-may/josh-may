@@ -29,11 +29,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [URL Regex Generator](https://joshmay.xyz/url-regex-generator/)
 - [Favorite Finds of 2021](https://joshmay.xyz/2021-favorites-finds/)
 - [Test](https://joshmay.xyz/test/)
-- [Junk Food Technology](https://joshmay.xyz/junk-food-tech/)
-- [Website Flipping](https://joshmay.xyz/website-flip/)
-- [SEO Case Study](https://joshmay.xyz/sailpoint/)
+- [Thoughts on Social Media Today](https://joshmay.xyz/junk-food-tech/)
+- [Bootstrapping an Affiliate Website from $0 to $1,600 MRR](https://joshmay.xyz/website-flip/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://joshmay.xyz)
