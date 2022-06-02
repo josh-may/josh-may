@@ -1,8 +1,6 @@
 ### Hi there, I'm Josh 👋
 
-- 🌱 I’m currently mastering React & building micro SaaS apps
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love camping, hiking, and riding my biking around :)
+- 🥅 2022 Goals: Learn through building side projects and contribute more to open source communitiy
 
 <br />
 
