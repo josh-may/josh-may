@@ -1,6 +1,6 @@
-### Hi there, I'm Josh 👋
+### Hi, I'm Josh May here 👋
 
-- 🥅 2022 Goals: Learn through building side projects and contribute more to open source communitiy
+🥅 2022 Goals: Learn through building side projects and contribute more to open source communitiy
 
 <br />
 
