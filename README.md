@@ -1,4 +1,4 @@
-### Hi, I'm Josh May here :)
+### Hi, I'm Josh May here 🤓
 
 2022 Goals: Learn through building and contribute more to open source communitiy
 
