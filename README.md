@@ -1,7 +1,6 @@
 ## 🚀 Goals: Learn more through building and contribute to open source projects
 
 <br />
-<br />
 
 ### Languages I'm familiar with:
 
