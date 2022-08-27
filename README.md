@@ -16,9 +16,9 @@
 
 <br />
 
----
-
 [website]: https://www.joshmay.xyz/blog
 [twitter]: https://twitter.com/joshuammay
 [instagram]: https://www.instagram.com/josh.m.may/
 [linkedin]: https://www.linkedin.com/in/joshuammay/
+
+<br />
