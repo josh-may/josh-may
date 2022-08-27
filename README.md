@@ -1,6 +1,6 @@
-### Hi, Josh here 👋
+## 👋 Hi, Josh here
 
-2022 Goals: Learn through building and contribute more to open source communities
+### 🥅 2022 Goals: Learn through building and contribute more to open source communities
 
 ### Languages and Tools:
 
