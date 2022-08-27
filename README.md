@@ -1,4 +1,4 @@
-## 🚀 Goals: Learn more through building and contribute to open source projects
+### 🚀 Goals - Learn more through building and contribute to open source projects
 
 <br />
 
