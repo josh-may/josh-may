@@ -1,5 +1,8 @@
 ## 🚀 Goals: Learn more through building and contribute to open source projects
 
+<br />
+<br />
+
 ### Languages I'm familiar with:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -15,11 +18,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Josh Mays's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=josh-may&show_icons=true&hide_border=true" />
 
 [website]: https://www.joshmay.xyz/blog
 [twitter]: https://twitter.com/joshuammay
