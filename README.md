@@ -1,4 +1,4 @@
-### 🚀 Current Goal - Learn more through building and contribute to open source projects
+### 🚀 Goal - Build more, love more.
 <br />
 
 ### Languages I'm familiar with:
