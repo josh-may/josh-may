@@ -1,4 +1,4 @@
-### ⭐️ Goals - Build more, love more.
+### ⭐️ Goals - Build more, share more.
 <br />
 
 ### Languages I'm familiar with:
