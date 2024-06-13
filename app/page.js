@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Head from "next/head";
-import { FaLinkedin, FaInstagram } from "react-icons/fa";
+import { FaLinkedin, FaInstagram, FaGithub } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 
 export default function Home() {
@@ -76,11 +76,18 @@ export default function Home() {
             <FaLinkedin className="text-2xl text-[#0077B5]" />
           </a>
           <a
-            href="https://www.sub.joshmay.xyz/s/pics"
+            href="https://www.joshmay.xyz/p/pics-from-old-ig"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaInstagram className="text-2xl text-[#E1306C]" />
+          </a>
+          <a
+            href="https://github.com/josh-may"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaGithub className="text-2xl text-black" />
           </a>
         </div>
         <p className="w-[85%] text-lg leading-7  md:w-[90%]">
@@ -89,28 +96,28 @@ export default function Home() {
         </p>
         <div className="mb-32 mt-3.5 flex w-[90%] flex-col items-center justify-center ">
           <a
-            href="https://www.sub.joshmay.xyz/p/projects"
+            href="https://www.joshmay.xyz/s/projects"
             className="m-[0.5rem] w-[98%] rounded-md border border-[#404040] bg-[#FFF8EE] p-[.8rem] text-center no-underline transition-shadow hover:bg-[#FFE8D4] "
           >
             <h2 className="text-xl text-black">🔨 Projects</h2>
           </a>
           <a
-            href="https://www.sub.joshmay.xyz/s/blog"
+            href="https://www.joshmay.xyz"
             className="m-[0.5rem] w-[98%] rounded-md border border-[#404040] bg-[#FFF8EE] p-[.8rem] text-center no-underline transition-shadow hover:bg-[#FFE8D4]"
           >
             <h2 className="text-xl text-black">📚 Blogs</h2>
           </a>
           <a
-            href="https://www.sub.joshmay.xyz/s/notes"
+            href="https://www.joshmay.xyz/s/fun"
             className="m-[0.5rem] w-[98%] rounded-md border border-[#404040] bg-[#FFF8EE] p-[.8rem] text-center no-underline transition-shadow   hover:bg-[#FFE8D4] "
           >
-            <h2 className="text-xl text-black">📓 Notes</h2>
+            <h2 className="text-xl text-black">🎉 Fun</h2>
           </a>
           <a
-            href="https://github.com/josh-may"
+            href="https://www.joshmay.xyz/about"
             className="m-[0.5rem] w-[98%] rounded-md border  border-[#404040] bg-[#FFF8EE] p-[.8rem] text-center no-underline transition-shadow   hover:bg-[#FFE8D4] "
           >
-            <h2 className="text-xl text-black">👾 GitHub</h2>
+            <h2 className="text-xl text-black">🧐 About</h2>
           </a>{" "}
           <a
             href="mailto:me@joshmay.xyz"
