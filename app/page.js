@@ -9,11 +9,11 @@ export default function Home() {
     "@type": "Person",
     name: "Josh May",
     url: "https://www.joshmay.xyz",
-    image: "https://www.joshmay.xyz/profile.jpg",
+    image: "https://www.links.joshmay.xyz/profile.jpg",
     sameAs: [
       "https://x.com/josh_m_may",
       "https://www.linkedin.com/in/joshuammay/",
-      "https://www.sub.joshmay.xyz/s/pics",
+      "https://www.joshmay.xyz/p/pics-from-old-ig",
       "https://github.com/josh-may",
     ],
     jobTitle: "Builder",
