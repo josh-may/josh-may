@@ -91,8 +91,9 @@ export default function Home() {
           </a>
         </div>
         <p className="w-[85%] text-lg leading-7  md:w-[90%]">
-          I'm an SEO at BigCommerce in Austin, TX. In my free time I like to
-          work on fun projects, see live music, and drink beer.
+          I'm an SEO at <a href="https://custom.sockclub.com/">Sock Club</a> in
+          Austin, TX. In my free time I like to work on fun side projects, see
+          live music, and drink beeeeer.
         </p>
         <div className="mb-32 mt-3.5 flex w-[90%] flex-col items-center justify-center ">
           <a
